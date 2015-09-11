@@ -29,7 +29,7 @@ gem 'omniauth-facebook', '~> 2.0.1'
 # Paperclip
 gem 'paperclip'#, '~> 4.3.1'
 # AWS for Picture storage
-gem 'aws-sdk'#, '~> 2.1.20'
+gem 'aws-sdk', '<2.0'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
